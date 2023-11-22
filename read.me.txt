@@ -1,0 +1,7 @@
+note:
+1.First of all, thanks to the author of this data.
+2.The data is obtained from the link https://github.com/iweld/chicago_crime_and_weather.
+3.This project on Chicago crime with respect to weather is in the preliminary stage.
+4.Just exploring the data (the original source data and current data are slightly modified)
+5.Since in source date date_reported is half text and half date cannot be import directly
+6.Data you see is current data and the above github link gives you the source data
